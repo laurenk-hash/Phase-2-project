@@ -171,8 +171,7 @@ summary.to_csv('genre_summary.csv')
 
 ## Authors
 
-Created by: claire Njeri, Yvonne Rajula, Abdullahi Hassan, Lauren Kuria, Issac Macharia and Dahir Ahmed
-If you want changes to this README (add badges, license, or export as README.md), tell me and I'll update it.
+Created by: claire Njeri, Yvonne Rajula, Abdullahi Hassan, Lauren Kuria, Issac Macharia and Dahir Ahmed.
 
 ---
 
